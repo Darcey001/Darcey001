@@ -6,7 +6,7 @@ I'm studying Computer Science at the **University of the People** (expected grad
 
 I'm interested in where medicine and software intersect, particularly how AI and digital health can make healthcare more accessible in **Nigeria** and other underserved communities.
 
-I'm looking for a **software engineering internship**, ideally in health tech.
+I'm looking for a **software engineering internship**, ideally in health tech, but I'm also open to other areas.
 
 ### 🛠️ Tech I use
 
