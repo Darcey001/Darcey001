@@ -1,4 +1,4 @@
-# Hi, I'm Praise 👋
+# Hi, I'm Praise 
 
 **Computer Science Student · Medical Background · Building Health Tech for Accessible Care**
 
